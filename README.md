@@ -44,7 +44,7 @@ To run this project on your local machine:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/imbickydutta/myntra_clone
+   git clone https://github.com/MaitreyeeRane/Myntra-Clone
    ```
 
 2. Navigate into the project folder
